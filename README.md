@@ -33,6 +33,6 @@ Important links :
 
 **GOOGLE FORM LINK FOR DIGITAL LITERACY AWARENESS QUIZ:** https://docs.google.com/forms/d/17j7MHalonoRuI9WUFpZt0_867wyPsEoheTSnlcLmyww/edit
 
-**linkedln** : linkedin.com/in/mousumi-parida-706b0b315
+**linkedln** : https://www.linkedin.com/in/mousumi-parida-706b0b315/
 
 **hackerrank** : https://www.hackerrank.com/profile/mousumiparida454
