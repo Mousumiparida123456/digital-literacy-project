@@ -14,7 +14,19 @@ DATE: 29 March, 2026
 
 -----------------------------------------------------------------------------------------------------------------------------
 This project provided a comprehensive understanding of digital literacy and its practical applications. Through all five 
-tasks, I developed skills in design, professional communication, coding, collaboration, and cybersecurity awareness. Creating an infographic improved my creativity, while building a digital portfolio helped me establish an online professional presence. Exploring coding platforms enhanced my problem-solving abilities, and drafting emails strengthened my communication skills. Learning about cybercrime increased my awareness of online safety. Overall, this project helped me become more confident, responsible, and efficient in using digital tools, which will support my academic growth and future career development.
+
+tasks, I developed skills in design, professional communication, coding, collaboration, and cybersecurity awareness. Creating
+
+an infographic improved my creativity, while building a digital portfolio helped me establish an online professional 
+
+presence. Exploring coding platforms enhanced my problem-solving abilities, and drafting emails strengthened my communication
+
+skills. Learning about cybercrime increased my awareness of online safety. Overall, this project helped me become more 
+
+confident, responsible, and efficient in using digital tools, which will support my academic growth and future career 
+
+development.
+ 
 -----------------------------------------------------------------------------------------------------------------------------
 Important links : 
 **Github** : https://github.com/Mousumiparida123456
